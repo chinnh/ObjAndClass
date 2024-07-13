@@ -1,4 +1,4 @@
-public class MainFan {
+public class FanMain {
     public static void main(String[] args) {
         Fan fan1 = new Fan();
         fan1.setSpeed(Fan.FAST);

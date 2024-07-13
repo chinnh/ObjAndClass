@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class MainRectangle {
+public class RectangleMain {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         Rectangle rectangle = new Rectangle(5,2);
